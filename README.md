@@ -12,7 +12,7 @@
 
 1.  **`index.html`**: Página principal que contiene mi presentación, lista de proyectos y un formulario de contacto validado.
 2.  **`mascotas.html`**: Una galería dedicada a mis mascotas con descripciones y navegación de regreso.
-3.  **`estilos.css`**: Hoja de estilos única que unifica el diseño de todo el sitio, aplicando:
+3.  **`styles.css`**: Hoja de estilos única que unifica el diseño de todo el sitio, aplicando:
     *   Fuentes legibles.
     *   Bordes redondeados y sombras en imágenes.
     *   Navegación interactiva (efectos al pasar el mouse).
